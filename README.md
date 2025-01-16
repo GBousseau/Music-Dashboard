@@ -1,5 +1,5 @@
 # Music-Dashboard
-Tags : ETL, API, Data visualization, Tableau, 
+Tags : ETL, API, Data visualization, Tableau, Data analysis
 
 Time spent: 1 day and half
 
