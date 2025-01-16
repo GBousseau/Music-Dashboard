@@ -5,11 +5,12 @@ Time spent: 1 day and half
 
 Content : https://public.tableau.com/views/MUSICDASHBOARD/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
+Important precision before starting : these are my first dashboards made with Tableau, I usually use PowerBI so I kept things pretty simple.
+
 CONTEXT
 
 As far as I can remember I have always listened some Rap. Even though i love this music, I felt that my playlist was drowned by it up to the point to become overwhelming. I decided to check this by diving into my Deezer personal data. Here is what I found! 
-
-PS: these are my first dashboards made with Tableau, I usually use PowerBI so I kept things pretty simple. 
+ 
 
 DATA GATHERING
 
