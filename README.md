@@ -3,9 +3,9 @@ Tags : ETL, API, Data visualization, Tableau, Data analysis
 
 Time spent: 1 day and half
 
-Content : https://public.tableau.com/views/MUSICDASHBOARD/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
-
 Important precision before starting : these are my first dashboards made with Tableau, I usually use PowerBI so I kept things pretty simple.
+
+Content : https://public.tableau.com/views/MUSICDASHBOARD/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 CONTEXT
 
