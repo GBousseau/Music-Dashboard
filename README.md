@@ -5,7 +5,7 @@ Time spent: 1 day and half
 
 Important precision before starting : these are my first dashboards made with Tableau, I usually use PowerBI so I kept things pretty simple.
 
-Content : https://public.tableau.com/views/MUSICDASHBOARD/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+Content : https://public.tableau.com/views/MUSICDASHBOARD/artisttracker?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 CONTEXT
 
