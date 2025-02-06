@@ -5,8 +5,7 @@ Time spent: 1 day and half
 
 Important precision before starting : these are my first dashboards made with Tableau, I usually use PowerBI so I kept things pretty simple.
 
-Content : https://public.tableau.com/views/MUSICDASHBOARD/artisttracker?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+Content : https://public.tableau.com/views/MUSICDASHBOARD/MusicDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 CONTEXT
 
 As far as I can remember I have always listened some Rap. Even though i love this music, I felt that my playlist was drowned by it up to the point to become overwhelming. I decided to check this by diving into my Deezer personal data. Here is what I found! 
@@ -40,5 +39,5 @@ My feeling is now confirmed: for many years , rap wasp predominant in my playlis
 Now, how can be explained the predominancy of this genre? 
 -	By rap itself: Rap was built as a contra culture in opposition to the societal norms so without positive references to other music or culture. It is often seen as a narrowing music, a closed universe. 
 But i don’t think this is true at all. 
--	Music consumption model: I use a lot recommendation systems to listen music:  I choose a track and Deezer build a playlist with similar songs. This can lead to a certain inertia in what I listen by reducing discoverability of other genres. 
+-	Music consumption model: I use a lot recommendation systems to listen music:  I choose a track and Deezer build a playlist with similar songs. This can lead to a certain inertia in what I listen by reducing discoverability of other genres.
 
